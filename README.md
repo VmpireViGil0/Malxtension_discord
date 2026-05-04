@@ -1,7 +1,3 @@
-Here is a professionally formatted `README.md` for your GitHub repository. It uses clear Markdown syntax, bold headers, and structured code blocks to make it easy for researchers to follow.
-
----
-
 # Cookie Exfiltration PoC (Educational)
 
 ### ⚠️ Disclaimer
